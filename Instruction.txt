@@ -1,0 +1,2 @@
+In order for the Jupiter file/Colab program to work correctly, the intents.json file should be uploaded to one's drive, 
+then its google drive's link should be copied and pasted into the open file: directory
